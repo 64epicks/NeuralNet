@@ -1,0 +1,14 @@
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\NeuralNetTest.exe.config
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\NeuralNetTest.exe
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\NeuralNetTest.pdb
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\obj\Debug\NeuralNetTest.csprojResolveAssemblyReference.cache
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\obj\Debug\NeuralNetTest.csproj.CoreCompileInputs.cache
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\obj\Debug\NeuralNetTest.exe
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\obj\Debug\NeuralNetTest.pdb
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\NeuralNetwork.dll
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\SharpDB.dll
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\Newtonsoft.Json.dll
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\NeuralNetwork.pdb
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\NeuralNetwork.dll.config
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\bin\Debug\Newtonsoft.Json.xml
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetTest\obj\Debug\NeuralNetTest.csproj.CopyComplete

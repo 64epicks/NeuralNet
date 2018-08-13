@@ -1,0 +1,13 @@
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.dll.config
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\Newtonsoft.Json.dll
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\SharpDB.dll
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\Newtonsoft.Json.xml
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CopyComplete
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\Cudafy.NET.dll
+A:\Media\dfjdh\Visual Studio 2017\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\Cudafy.NET.xml
